@@ -1,16 +1,17 @@
 ### Hi there 👋
 Mechatronic Engineer passionate about cars and interested in automotive-oriented embedded systems.
-I started working in 2018 in the automotive industry performing different activities, starting with the development of framework for test automation, continuing with requirements analysis, creation, automation and execution of test cases, to currently dedicate myself to configure and generate
-code through DaVinci, in addition to debugging code problem reports and propose
-solutions for those bugs.
+
+- 🔭 I’m currently working on Automotive Industry as Software Developer in Automatic Steering.
+- 🌱 I’m currently pursuing a master's degree in electronic design.
+
 
 <!--
 **joshuabg96/joshuabg96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
