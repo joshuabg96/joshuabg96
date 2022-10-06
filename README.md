@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my Github. I'm Josué Bernabe, Embbeded software developer.
+
 Mechatronic Engineer passionate about cars and interested in automotive-oriented embedded systems.
 
 - 🔭 I’m currently working on Automotive Industry as Software Developer in Automatic Steering.
