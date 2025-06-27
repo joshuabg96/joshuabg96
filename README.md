@@ -3,7 +3,6 @@
 Mechatronic Engineer passionate about cars and interested in automotive-oriented embedded systems.
 
 - 🔭 I’m currently working on Automotive Industry as Software Developer in Automatic Steering.
-- 🌱 I’m currently pursuing a master's degree in electronic design.
 
 
 <!--
